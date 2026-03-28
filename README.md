@@ -74,3 +74,5 @@ Market sentiment plays a critical role in trader success:
 Understanding market sentiment can significantly improve trading strategies and decision-making.
 ## Note
 Due to file size limitations, datasets and processed files are not included in this repository.
+## Data Files
+[Download Final Dataset](https://drive.google.com/file/d/1Vez-uqMovKfJQGOL18NBZaotFrEfaIkp/view?usp=sharing)
